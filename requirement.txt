@@ -1,0 +1,16 @@
+
+---
+### requirements.txt
+
+txt      version 
+OS Name: nt
+System:  windows
+Release: 11
+python: 3.13.3
+pandas: 2.2.3
+numpy: 2.2.6
+matplotlib: 3.10.3
+seaborn:    0.13.2
+scipy.stats: 1.15.3
+sqlalchemy: 2.0.41
+sqlite3:    3.49.1
